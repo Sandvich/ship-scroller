@@ -4,5 +4,5 @@
 As of yet, barely anything is decided about the game. Watch this space!
 
 ## Licensing
-The code is released under the Apache 2.0 license. The assets (artwork, music etc) are licensed under CC-BY 4.0 International.<br>
+The code is released under the Apache 2.0 license. The assets (artwork, music etc) are licensed under CC-BY 4.0 International, except those listed under attributions.txt (see the links for their licenses).<br>
 Copies of both licenses are available in in the repo.

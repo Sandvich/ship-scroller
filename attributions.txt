@@ -1,0 +1,3 @@
+Cannonball https://opengameart.org/content/cannonball
+Ship https://opengameart.org/content/simple-generic-ship
+Background https://opengameart.org/content/cloudy-sky
