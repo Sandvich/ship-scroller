@@ -22,4 +22,11 @@ region = true
 region_rect = Rect2( 140, 0, 110, 110 )
 script/script = ExtResource( 4 )
 
+[node name="cooldown" type="Timer" parent="."]
+
+process_mode = 1
+wait_time = 1.0
+one_shot = false
+autostart = false
+
 
