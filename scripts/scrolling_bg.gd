@@ -1,7 +1,5 @@
 extends Sprite
-
 var speed = 0.2
-var count = 0.0
 
 func _ready():
 	set_process(true)
